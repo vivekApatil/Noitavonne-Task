@@ -1,0 +1,68 @@
+{
+  "user": [
+    {
+      "id": "272f",
+      "username": "vivek",
+      "email": "vivek@gmail.com",
+      "password": "vivek123",
+      "userType": "endUser"
+    },
+    {
+      "id": "84b6",
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "userType": "Admin"
+    },
+    {
+      "id": "441b",
+      "username": "Jeevan",
+      "email": "jeevan@gmail.com",
+      "password": "jeevan123",
+      "userType": "techSupport"
+    },
+    {
+      "id": "121f",
+      "username": "sham",
+      "email": "sham@gmail.com",
+      "password": "sham123",
+      "userType": "techSupport"
+    }
+  ],
+  "tocken": [
+    {
+      "id": "7d89",
+      "tokenName": "Test1",
+      "description": "Demo1",
+      "screenshot": {},
+      "status": "Resolved",
+      "createdDate": "2024-06-09T04:38:01.753Z"
+    },
+    {
+      "id": "4c37",
+      "tokenName": "Test2",
+      "description": "Demo2",
+      "screenshot": {},
+      "status": "Resolved",
+      "createdDate": "2024-06-09T09:06:17.372Z"
+    }
+  ],
+  "TechSupport-Task": [
+    {
+      "id": "7d89",
+      "tokenName": "Test1",
+      "description": "Demo1",
+      "status": "Resolved",
+      "createdDate": "2024-06-09T04:38:01.753Z",
+      "techSupport": "jeevan@gmail.com"
+    },
+    {
+      "id": "4c37",
+      "tokenName": "Test2",
+      "description": "Demo2",
+      "status": "Resolved",
+      "createdDate": "2024-06-09T09:06:17.372Z",
+      "techSupport": "sham@gmail.com"
+    }
+  ]
+}
