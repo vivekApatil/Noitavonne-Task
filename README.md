@@ -5,4 +5,8 @@
  
  2. npm install
  3. npm start
- 4. json-server --watch db.json --port 3002 
+ 4. json-server --watch db.json --port 3002
+
+# Admin credential
+ Email : admin@gmail.com
+ Password : admin123
